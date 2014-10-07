@@ -1,0 +1,43 @@
+[
+	{
+		"numero_facture" : "10012A",
+		"date" : "Jul 4, 2013",
+		"client" : {
+		    "nom" : "Alexandre Terrasa",
+		    "email" : "foobar@example.com"
+		},
+		"produits" : [
+		    {
+		        "code" : "MACBOOKAIR",
+		        "nom" : "Macbook Air",
+		        "prix" : 999.99,
+		        "quantite" : 1
+		    },
+		    {
+		        "code" : "APPLESUPPORT",
+		        "nom" : "AppleCare 1 an",
+		        "prix" : 149.99,
+		        "quantite" : 1
+		    }
+		],
+		"total" : 1149.98
+	}, 
+	{
+		"numero_facture" : "10013A",
+		"date" : "Jul 5, 2013",
+		"numero_facture" : "10013A",
+		"client" : {
+		    "nom" : "Jacques Berger",
+		    "email" : "berger.jacques@uqam.ca"
+		},
+		"produits" : [
+		    {
+		        "code" : "LENOVOX230",
+		        "nom" : "Lenovo Thinkpad X230",
+		        "prix" : 899.99,
+		        "quantite" : 1
+		    }
+		],
+		"total" : 899.99
+	}
+]

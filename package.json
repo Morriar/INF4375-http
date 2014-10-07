@@ -1,0 +1,10 @@
+{
+	"name": "INF4375.Semaine06",
+	"description": "A project to show how to write a http server using Node.js",
+	"author": "Alexandre Terrasa",
+	"version": "1.0.0",
+  	"license": "Apache 2.0",
+	"dependencies": {
+		"xmldom": "~0.1.13"
+	}
+}
